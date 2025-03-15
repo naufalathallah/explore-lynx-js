@@ -1,4 +1,4 @@
-import { ReactNode } from "@lynx-js/react";
+import type { ReactNode } from "@lynx-js/react";
 
 interface ButtonProps {
   onTap?: () => void;
