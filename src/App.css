@@ -1,0 +1,16 @@
+.container {
+  padding: 20px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.Title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.Subtitle {
+  font-size: 18px;
+  margin-bottom: 16px;
+}

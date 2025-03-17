@@ -8,7 +8,7 @@ export function App() {
   }, []);
 
   return (
-    <view>
+    <view className="container">
       <text className="Title">React</text>
       <text className="Subtitle">on Lynx</text>
       <text>Check out the organized project structure!</text>
