@@ -11,6 +11,7 @@ export function App() {
     <view>
       <text className="Title">React</text>
       <text className="Subtitle">on Lynx</text>
+      <text>Check out the organized project structure!</text>
     </view>
   );
 }
